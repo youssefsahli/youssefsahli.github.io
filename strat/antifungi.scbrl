@@ -12,4 +12,4 @@
 
 @section{Antifongiques d'origine biologique}
 @section[#:tag "polyenes"]{Polyenes}
-@image["assets/amphotericin.png"]
+@image["assets/amphotericin.png" @italic{Amphotericin B}]
