@@ -4,6 +4,9 @@
 @table-of-contents[]
 @author{Youssef Sahli}
 
+@section[#:tag "strat"]{Strategies anti-infectieuses}
+@include-section["strat/antifungi.scbrl"]
+
 @section[
  #:tag "cardiovasculaire"]{
  Cardiovasculaire}
