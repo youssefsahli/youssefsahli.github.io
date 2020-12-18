@@ -9,3 +9,7 @@
                          (list "Teignes" "Pytiriasis versicolor" "muguet, perleche")
                          (list "Herpes circine" "Dermite seborreique" "Balanite, vulvovaginite")
                          (list @italic{Acide undecylenique} @italic{Sulfure de selenium} ""))]
+
+@section{Antifongiques d'origine biologique}
+@section[#:tag "polyenes"]{Polyenes}
+@image["assets/amphotericin.png"]
