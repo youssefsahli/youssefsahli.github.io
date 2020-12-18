@@ -11,5 +11,16 @@
                          (list @italic{Acide undecylenique} @italic{Sulfure de selenium} ""))]
 
 @section{Antifongiques d'origine biologique}
-@section[#:tag "polyenes"]{Polyenes}
+@subsection[#:tag "polyenes"]{Polyenes}
 @image["strat/assets/amphotericin.png" @italic{Amphotericin B}]
+
+@subsection[#:tag "griseofulvin"]{Griseofulvine}
+Elle est derivee du Benzodihydrofurane
+C'est un poison du fuseau actif sur tous les dermatophytes
+@subsubsection{Mecanisme d'action}
+@itemlist[
+ @item{Inhibition de la synthese des acides nucleiques}
+ @item{inhibition de la synth de la paroi fongique}
+ @item{Blocage de la mitose}
+ @item{Perturbation du trp du cytoplasme vers la peripherie}
+ ]
