@@ -10,14 +10,15 @@
                          (list "Herpes circine" "Dermite seborreique" "Balanite, vulvovaginite")
                          (list @italic{Acide undecylenique} @italic{Sulfure de selenium} ""))]
 
-@section{Antifongiques d'origine biologique}
+@section{Antifongiques @italic{d'origine biologique}}
 @subsection[#:tag "polyenes"]{Polyenes}
 @image["strat/assets/amphotericin.png" @italic{Amphotericin B}]
 
 @subsection[#:tag "griseofulvin"]{Griseofulvine}
 Elle est derivee du Benzodihydrofurane
 C'est un poison du fuseau actif sur tous les dermatophytes
-@subsubsection{Mecanisme d'action}
+
+@subsubsection[#:tag "griseofulvin ma"]{Mecanisme d'action}
 @itemlist[
  @item{Inhibition de la synthese des acides nucleiques}
  @item{inhibition de la synth de la paroi fongique}
@@ -32,12 +33,14 @@ C'est un poison du fuseau actif sur tous les dermatophytes
  @item{Confusion}
  @item{Nausees, vomissements}
  @item{effets cutanes et photosensibilisation}]
-@subsubsection{Interactions medicamenteuses}
+
+@subsubsection[#:tag "griseofulvin iam"]{Interactions medicamenteuses}
 @itemlist[
  @item{Deconseillee avec les oestroprogestatifs}
  @item{Effet antabuse avec l'alcool}
  ]
-@subsubsection{Indications}
+
+@subsubsection[#:tag "griseofulvin ind"]{Indications}
 @itemlist[
  @item{Teignes}
  @item{Dermatophytoses}]
