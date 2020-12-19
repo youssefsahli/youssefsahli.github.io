@@ -3,11 +3,39 @@
  Sartans
 }
 
-Les sartans bloquent les recepteurs AT1 a l'angiotensine II
-mais ne s'opposent pas a la synthese d'angiotensine II
-Ils peuvent en revanche entrainer une hyperkaliemie,
-des angioedemes.
-Ils s'administrent par voie orale
+Antagonistes competitifs reversibles des recepteurs a
+l'angiotensine II @italic{R.AT1}
 
+@tabular[#:style 'boxed #:row-properties '(bottom-border ())
+ (list
+   (list @bold{AT1} @bold{AT2})
+   (list "Vasodilation" "Vasodilatation")
+   (list "Reabsorption Na H2O" "Natriurese")
+   (list "Stimulation de la proliferation cellulaire"
+         "Inhibition de la proliferation cellulaire"))]
+
+@larger{@bold{Pharmacocinetique}}
 @itemlist[
-          @item{Diminution de la perfusion renale}]
+ @item{Resorption digestive bonne}
+ @item{1er passage hepatique fort avec un metabolite actif}
+ @item{LPP forte}
+ @item{Elimination urinaire et biliaire (mixte)}]
+
+@larger{@bold{Effets indesirables}}
+@itemlist[
+ @item{Hypotension dose-dependante}
+ @item{Deterioration de la fonction renale}
+ @item{Hyperkaliemie, Hyperuricemie}
+ @item{Angioedeme}]
+
+@bold{Indications: }
+@(line-break)
+@itemlist[
+ @item{Candesartan: @link[
+ "https://www.icm-mhi.org/fr/soins-et-services/maladies-cardiovasculaires/insuffisance-cardiaque"
+ "Insuffisance cardiaque"]}
+
+@bold{Contre-indication absolue: Grossesse}
+@(linebreak)
+@bold{Contre-indication relative:
+  @link["https://fr.wikipedia.org/wiki/St%C3%A9nose" " Stenose"]}
