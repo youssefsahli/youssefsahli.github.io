@@ -8,13 +8,15 @@
 Antagonistes competitifs reversibles des recepteurs a
 l'angiotensine II @italic{R.AT1}
 
-@tabular[#:style 'boxed #:row-properties '(bottom-border ())
+@tabular[#:style 'boxed
+         #:row-properties '(bottom-border)
+         #:column-properties '(left-border right-border)
+         #:cell-properties '((vcenter))
          (list
           (list @bold{AT1} @bold{AT2})
-          (list "Vasodilation" "Vasodilatation")
-          (list "Reabsorption Na H2O" "Natriurese")
-          (list "Stimulation de la proliferation cellulaire"
-                "Inhibition de la proliferation cellulaire"))]
+          (list "Vasoconstriction" "Vasodilatation")
+          (list "Vasotrophique" "anti-trophique")
+          (list "Reabsorption Na H2O" "Natriurese"))]
 
 @subsection[#:tag "sartans pk"]{Pharmacocinetique}
 @itemlist[
