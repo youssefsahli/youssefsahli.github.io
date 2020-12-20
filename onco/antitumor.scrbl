@@ -1,0 +1,18 @@
+#lang scribble/manual
+
+@title[#:tag "antitum"]{Antitumoraux}
+@section{Le protocole de chimiothérapie}
+On utilise une monothérapie pour la première chimiothérapie.
+La polythérapie permet d'avoir ensuite un effet synergique entre les différents agents.
+@itemlist[
+	@item{Agent recrutant}
+	@item{Agent synchronisant}
+	@item{Agent phase-dépendant}]
+
+@section[#:tag "antitum tox gen"]{Toxicité Générale}
+@itemlist[
+@item{Myélosuppression}
+@item{Insuffisance testiculaire et ovarienne}
+@item{Alopécie}]
+
+@section[#:tag "antitum resistance"]{Résistance}
