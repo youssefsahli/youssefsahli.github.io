@@ -1,4 +1,6 @@
 #lang scribble/manual
+@require[scribble/decode]
+
 @title{
  Antihypertenseurs
 }
@@ -18,28 +20,29 @@ l'angiotensine II @italic{R.AT1}
           (list "Vasotrophique" "anti-trophique")
           (list "Reabsorption Na H2O" "Natriurese"))]
 
-@subsection[#:tag "sartans pk"]{Pharmacocinetique}
+@bold{Pharmacocinétique}
 @itemlist[
  @item{Resorption digestive bonne}
- @item{1er passage hepatique fort avec un metabolite actif}
+ @item{1er passage hepatique fort avec un métabolite actif}
  @item{LPP forte}
  @item{Elimination urinaire et biliaire (mixte)}]
 
-@subsection[#:tag "sartans ind"]{Indications}
+@bold{Indications}
 @itemlist[
  @item{Candesartan: @link[
  "https://www.icm-mhi.org/fr/soins-et-services/maladies-cardiovasculaires/insuffisance-cardiaque"
  "Insuffisance cardiaque"]}]
 
-@subsection[#:tag "sartans ei"]{Effets indesirables}
+@bold{Effets indésirables}
 @itemlist[
- @item{Hypotension dose-dependante}
- @item{Deterioration de la fonction renale}
+ @item{Hypotension dose-dépendante}
+ @item{Déterioration de la fonction rénale}
  @item{Hyperkaliemie, Hyperuricemie}
- @item{Angioedeme}]
+ @item{Angioedème}]
 
-@subsection[#:tag "sartans ci"]{Contre-indications}
-@subsubsection{Absolue}
+@bold{Contre-indication}
+@(linebreak)
+@bold{@italic{Absolue}}
 @itemlist[
  @item{Grossesse}
  @item{Association avec les diurétiques dans les cas d'insuffisance rénale sévère.}]
@@ -47,21 +50,24 @@ l'angiotensine II @italic{R.AT1}
 @italic{Leur efficacité est @link[
  "http://www.chups.jussieu.fr/polys/pharmaco/poly/POLY.Chp.9.3.html"
  "amoindrie par les AINS"].}
-@subsubsection{Relative} 
+@(linebreak)
+@para{
+@bold{@italic{Relative}}
+@(linebreak)
 @link["https://fr.wikipedia.org/wiki/St%C3%A9nose" " Stenose"]
-bilaterale des arteres renales
+bilaterale des arteres renales}
 
 @section[#:tag "iec"]{Inhibiteurs de l'enzyme de conversion}
-@subsection[#:tag "iec ma"]{Mecanisme d'action}
+@bold{Mécanisme d'action}
 @link[
 "http://www.chups.jussieu.fr/polys/pharmaco/poly/POLY.Chp.9.3.html"
  "Inhibiteurs de la synthese d'angiotensine II"]
-La cascade enzymatique est inhibee,
-de la @italic{synthese} d'aldosterone a la @italic{degradation} de bradykinine
+La cascade enzymatique est inhibée,
+de la @italic{synthèse} d'aldostérone à la @italic{dégradation} des bradykinines.
 
-@subsection[#:tag "iec ind"]{Indications}
+@bold{Indications}
 @itemlist[
- @item{Hypertension arterielle}
+ @item{Hypertension artérielle}
  @item{insuffisance cardiaque}
  @item{infarctus du myocarde}]
 Leur efficacité antihypertensive est comparable à celle des autres grandes

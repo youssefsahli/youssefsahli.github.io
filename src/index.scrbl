@@ -9,7 +9,7 @@
           @current-directory[(build-path (current-directory) s)]
           @current-directory["/home/ys/Desktop/youssefsahli.github.io"]))
 
-@include-section["strat/antifungi.scbrl"]
+@include-section["strat/antifungi.scrbl"]
 @margin-note{
  @bold{14 janvier 13h}:
   @(linebreak)
@@ -22,5 +22,6 @@
 @include-section["cardio/hypolipemiants.scrbl"]
 @include-section["onco/antitumor.scrbl"]
 @include-section["onco/hormono.rkt"]
+@include-section["onco/alkylants.rkt"]
 
 @table-of-contents[]
