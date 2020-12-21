@@ -1,5 +1,5 @@
 #lang scribble/manual
-@title{traitement hormonologique du cancer du sein}
+@title[#:tag "ksein"]{traitement hormonologique du cancer du sein}
 @section{Castration physique @emph{définitive}}
 @para{Elle se fait par chirurgie et radiotherapie localisée.}
 @section{Castration chimique, @emph{temporaire et réversible}}
