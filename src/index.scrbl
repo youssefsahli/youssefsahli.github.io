@@ -23,5 +23,6 @@
 @include-section["onco/antitumor.scrbl"]
 @include-section["onco/hormono.rkt"]
 @include-section["onco/alkylants.rkt"]
+@include-section["onco/resistance.scrbl"]
 
-@table-of-contents[]
+@local-table-of-contents[]

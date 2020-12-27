@@ -1,0 +1,18 @@
+#lang scribble/manual
+@title{Chimirésistance au Cancer}
+@section{Sensibilité aux traitements systémiques}
+@tabular[#:style 'boxed
+         #:row-properties '(bottom-border)
+         #:column-properties '(left-border)
+   
+ (list
+  (list "Extrême" "Très élevée" "Elevée" "Modérée" "Faible")
+  (list @para{Lymphomes
+          Tumeurs germinale}
+        @para{Ovaires
+          CPPC}
+        @para{Sein, Colorectum
+          Neuroendocrinien}
+        @para{CPNPC, Sarcome tissus mous
+          Estomac, pancréas}
+        @para{Voies biliaires, mélanome}))]
