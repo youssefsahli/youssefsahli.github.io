@@ -34,12 +34,3 @@
  @item{Tumeur primitive ou métastase}]
 
 @section{Mécanisme de résistance en amont de la cible}
-@itemlist[
- #:style 'ordered
- @item{Absence de pénétration cellulaire}
- @item{Bio-inactivation}
- @item{Hyper-excrétion par pompe à efflux}
- @item{Détoxification de la drogue}
- @item{Séquestration de la drogue}]
-
-       
