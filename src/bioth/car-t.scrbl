@@ -23,4 +23,8 @@ On centrifuge ensuite@.__
 Les cellules mononuclées restent en suspension au dessus du tube, alors que les hématies sont au fond du tube@.__
 
 @subsection[#:tag "leucaphérèse"]{Leucaphérèse}
-On prélève par aphérèse les leucocytes du patient (Cytaphérèse)
+@itemlist[#:style 'ordered
+@item{Prélèvement par aphérèse des leucocytes du patient (Cytaphérèse)}
+@item{Centrifugation du sang du patient}
+@item{Réinjection du plasma puis sélection des protéines d'intérêt}]
+
